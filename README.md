@@ -100,3 +100,10 @@ Description:
 This "classic" chip doesn't do GPIO.
 
 I'm surprised that this chip has onboard EEPROM. Cool.
+
+## Mini Board
+
+I have another device, with even less identification,
+that is a slimmed down equivalent.
+
+![mini_board.jpg](photos/mini_board.jpg)
